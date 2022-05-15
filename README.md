@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BorisKartofel
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C and Java
 - 📫 How to reach me:  borisov-anton-00@mail.ru
 
 <!---
